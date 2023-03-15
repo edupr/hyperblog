@@ -10,5 +10,7 @@ Un blog increíble para el curso de Git y GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos de GitHub
 * Personalidad
+* Creado por el Team
+
 
 Y como amable recordatorio: este [readme](google.com) es solo un **ejemplo**.
