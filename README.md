@@ -11,6 +11,7 @@ Un blog increíble para el curso de Git y GitHub
 * Trucos de GitHub
 * Personalidad
 * Creado por el Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 
 Y como amable recordatorio: este [readme](google.com) es solo un **ejemplo**.
